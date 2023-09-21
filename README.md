@@ -47,5 +47,4 @@ Plot the results as a bar chart.
 About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 Visually estimate the result by plotting the daily minimum temperature.
-Export the data frame to a CSV file.
-Please note a student and TA help with the code involving datatypes. This one is for changing the variables into int or float. For example, changing month from object to integer. The code structure was right, but I made a mistake with my copying. They didn't give me code; they just helped me find my mistake. 
+Export the DataFrame to a CSV file.
